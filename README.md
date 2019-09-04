@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+##HOSTED @ http://dockerreact-env.vum7psfqbc.us-west-2.elasticbeanstalk.com/
+
 ## Available Scripts
 
 In the project directory, you can run:
